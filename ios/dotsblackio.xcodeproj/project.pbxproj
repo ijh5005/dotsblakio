@@ -5,7 +5,6 @@
 	};
 	objectVersion = 46;
 	objects = {
-
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* dotsblackioTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* dotsblackioTests.m */; };
 		136AFE55D4BF488F8EB90330 /* Raleway-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 59A27C27EAA34148B0A04EFA /* Raleway-ExtraBoldItalic.ttf */; };
